@@ -12,4 +12,4 @@ ReactDOM.render(
 );
 
 
-ReactDOM.render(<App />, document.querySelector('#root'));
+// ReactDOM.render(<App />, document.querySelector('#root'));
